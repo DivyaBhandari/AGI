@@ -1,0 +1,5 @@
+﻿2020-04-02 11:50:34:5209 : EXCEPTION - Thread was being aborted.
+2020-04-02 11:51:38:5887 : EXCEPTION - Thread was being aborted.
+2020-04-02 11:51:57:8433 : EXCEPTION - Thread was being aborted.
+2020-04-02 12:11:48:2407 : DEBUG - Derived Parameter - get DerivedInputParametersUnable to cast object of type 'System.DBNull' to type 'System.Byte[]'.
+2020-04-02 12:15:56:0581 : DEBUG - Derived Parameter - get DerivedInputParametersUnable to cast object of type 'System.DBNull' to type 'System.Byte[]'.

@@ -1,0 +1,20 @@
+﻿2019-12-09 15:41:45:9043 : DEBUG - Value
+2019-12-09 15:41:46:0412 : DEBUG - Value
+2019-12-09 15:41:57:1162 : DEBUG - Value
+2019-12-09 15:41:57:2934 : DEBUG - Value
+2019-12-09 15:42:22:5395 : DEBUG - Value
+2019-12-09 15:42:22:6681 : DEBUG - Value
+2019-12-09 15:43:26:2491 : DEBUG - Value
+2019-12-09 15:43:26:4299 : DEBUG - Value
+2019-12-09 15:43:41:9292 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:43:42:0112 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:43:44:2182 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:43:44:3222 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:44:08:1786 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:44:08:3905 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:44:11:4501 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:44:11:5686 : DEBUG - Error converting data type nvarchar to float.
+2019-12-09 15:44:29:5683 : DEBUG - Value
+2019-12-09 15:44:29:7787 : DEBUG - Value
+2019-12-09 15:44:43:9442 : DEBUG - Value
+2019-12-09 15:44:44:0840 : DEBUG - Value

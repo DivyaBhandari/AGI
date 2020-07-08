@@ -1,0 +1,2 @@
+﻿2020-06-05 10:58:15:2192 : DEBUG - ATK - get SystemDocument DataExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2020-06-05 10:59:55:7981 : DEBUG - ATK - get SystemDocument DataExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

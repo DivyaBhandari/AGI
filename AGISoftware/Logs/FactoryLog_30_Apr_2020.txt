@@ -1,0 +1,7 @@
+﻿2020-04-30 13:54:34:4679 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-30 13:54:34:7639 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-30 13:54:35:0799 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-30 13:54:35:4139 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-30 13:54:53:9311 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-30 13:54:54:2621 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-30 13:54:54:5901 : DEBUG - ATK - get ATKGraph Value FrequencyValue

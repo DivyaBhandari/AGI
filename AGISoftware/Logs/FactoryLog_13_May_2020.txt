@@ -1,0 +1,3 @@
+﻿2020-05-13 16:18:26:1635 : DEBUG - ATK - get SystemDocument DataInvalid column name 'CompletedStatus'.
+2020-05-13 16:18:27:0035 : DEBUG - ATK - get SystemDocument DataInvalid column name 'CompletedStatus'.
+2020-05-13 16:18:56:0147 : DEBUG - ATK - get SystemDocument DataInvalid column name 'CompletedStatus'.

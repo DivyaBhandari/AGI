@@ -1,0 +1,28 @@
+﻿2019-12-16 09:41:17:5311 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-12-16 16:34:31:2717 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019-12-16 16:35:35:3633 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019-12-16 17:19:26:7250 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:26:8217 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:26:9111 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:27:0016 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:27:1078 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:41:0001 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:41:1079 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:41:1963 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:41:2922 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:19:41:3831 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:20:28:6710 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:20:28:7638 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:20:28:8527 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:20:29:0131 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:20:29:1207 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:24:44:2114 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:24:44:3208 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:24:44:4138 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:24:44:5000 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:24:44:5862 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:25:56:7295 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:25:56:8407 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:25:57:0268 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:25:57:1419 : DEBUG - Error converting data type nvarchar to float.
+2019-12-16 17:25:57:2579 : DEBUG - Error converting data type nvarchar to float.

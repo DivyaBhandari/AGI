@@ -1,0 +1,2 @@
+﻿2019-10-12 17:31:08:4030 : EXCEPTION - Cannot open database "AGI_new" requested by the login. The login failed.
+Login failed for user 'sa'.

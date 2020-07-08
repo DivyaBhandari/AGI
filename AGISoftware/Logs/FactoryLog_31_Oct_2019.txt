@@ -1,0 +1,32 @@
+﻿2019-10-31 16:44:05:5388 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:44:05:5438 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:44:05:5548 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:44:05:5668 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:44:45:2417 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:44:45:2567 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:44:49:4295 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:44:49:4455 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:45:12:2799 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:45:12:2939 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:45:50:5978 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:45:50:6115 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:46:13:4466 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 16:46:55:5295 : EXCEPTION - @inputMod is not a parameter for procedure S_Get_InputParameterInsertUpdate.
+2019-10-31 17:24:38:4227 : EXCEPTION - Invalid attempt to read when no data is present.
+2019-10-31 17:24:45:3507 : EXCEPTION - Invalid attempt to read when no data is present.
+2019-10-31 17:24:46:2528 : EXCEPTION - Invalid attempt to read when no data is present.
+2019-10-31 17:24:46:5326 : EXCEPTION - Invalid attempt to read when no data is present.
+2019-10-31 18:18:13:4873 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:17:5247 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:18:9553 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:19:7306 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:37:8522 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:38:8263 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:38:9944 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:39:1395 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:18:39:2821 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:20:48:4626 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:28:17:1761 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:29:18:0553 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:29:28:1517 : EXCEPTION - Error converting data type nvarchar to float.
+2019-10-31 18:30:51:6735 : EXCEPTION - Error converting data type nvarchar to float.

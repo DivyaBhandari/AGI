@@ -1,0 +1,1 @@
+﻿2019-11-18 13:47:04:4742 : EXCEPTION - Invalid column name 'column_name'.

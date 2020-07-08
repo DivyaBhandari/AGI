@@ -1,0 +1,18 @@
+﻿2020-01-22 14:59:51:4279 : DEBUG - get ATKParameter MinMaxAvgThe select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by id 
+2020-01-22 14:59:52:9030 : DEBUG - get ATKGraph Value FrequencyThe select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by id 
+2020-01-22 14:59:53:0788 : DEBUG - get ATKGraph Value FrequencyThe select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by id 
+2020-01-22 14:59:53:2068 : DEBUG - get ATKGraph Value FrequencyThe select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by id 
+2020-01-22 14:59:53:3168 : DEBUG - get ATKGraph Value FrequencyThe select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by id 
+2020-01-22 14:59:53:4267 : DEBUG - get ATKGraph Value FrequencyThe select list for the INSERT statement contains fewer items than the insert list. The number of SELECT values must match the number of INSERT columns.
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by id 

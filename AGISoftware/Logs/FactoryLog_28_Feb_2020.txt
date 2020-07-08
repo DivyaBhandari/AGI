@@ -1,0 +1,10 @@
+﻿2020-02-28 11:36:40:4662 : EXCEPTION - Whil rename Input module tabError converting data type nvarchar to int.
+2020-02-28 11:36:40:4982 : EXCEPTION - Whil rename Input module tabError converting data type nvarchar to int.
+2020-02-28 11:36:40:5311 : EXCEPTION - Whil rename Input module tabError converting data type nvarchar to int.
+2020-02-28 11:36:40:5631 : EXCEPTION - Whil rename Input module tabError converting data type nvarchar to int.
+2020-02-28 11:36:40:5989 : EXCEPTION - Whil rename Input module tabError converting data type nvarchar to int.
+2020-02-28 11:36:40:6319 : EXCEPTION - Whil rename Input module tabError converting data type nvarchar to int.
+2020-02-28 11:50:11:4190 : DEBUG - get SystemDocument DataAmbiguous column name 'SortOrder'.
+2020-02-28 11:51:27:4445 : DEBUG - get SystemDocument DataAmbiguous column name 'SortOrder'.
+2020-02-28 17:09:01:3307 : DEBUG - get DerivedCalculateParameterORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2020-02-28 17:09:11:7348 : DEBUG - get DerivedCalculateParameterORDER BY items must appear in the select list if SELECT DISTINCT is specified.

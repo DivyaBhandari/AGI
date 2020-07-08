@@ -1,0 +1,18 @@
+﻿2019-10-04 15:16:44:1560 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 15:16:44:1791 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 17:09:12:7976 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 17:09:12:8026 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 17:09:12:8076 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 17:09:12:8116 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 17:10:12:8973 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 17:24:39:8477 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-10-04 17:24:39:8566 : EXCEPTION - Cannot open database "AGI" requested by the login. The login failed.
+Login failed for user 'sa'.

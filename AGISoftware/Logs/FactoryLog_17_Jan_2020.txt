@@ -1,0 +1,138 @@
+﻿2020-01-17 09:13:15:4557 : DEBUG - Value
+2020-01-17 09:13:15:6313 : DEBUG - Value
+2020-01-17 09:13:15:7509 : DEBUG - Value
+2020-01-17 09:13:15:8828 : DEBUG - Value
+2020-01-17 09:13:16:0197 : DEBUG - Value
+2020-01-17 09:21:41:0991 : DEBUG - Value
+2020-01-17 09:21:41:2645 : DEBUG - Value
+2020-01-17 09:21:41:3955 : DEBUG - Value
+2020-01-17 09:21:41:5473 : DEBUG - Value
+2020-01-17 09:21:41:6811 : DEBUG - Value
+2020-01-17 09:23:20:6784 : DEBUG - Value
+2020-01-17 09:23:20:8471 : DEBUG - Value
+2020-01-17 09:23:20:9756 : DEBUG - Value
+2020-01-17 09:23:21:1400 : DEBUG - Value
+2020-01-17 09:23:21:2729 : DEBUG - Value
+2020-01-17 09:51:17:6014 : DEBUG - Value
+2020-01-17 09:51:17:7610 : DEBUG - Value
+2020-01-17 09:51:17:9142 : DEBUG - Value
+2020-01-17 09:51:18:0501 : DEBUG - Value
+2020-01-17 09:51:18:2217 : DEBUG - Value
+2020-01-17 10:13:38:7975 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:13:38:9690 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:13:39:0678 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:13:39:1979 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:13:39:3565 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:38:8172 : DEBUG - Value
+2020-01-17 10:14:38:9921 : DEBUG - Value
+2020-01-17 10:14:39:1577 : DEBUG - Value
+2020-01-17 10:14:39:3334 : DEBUG - Value
+2020-01-17 10:14:39:5049 : DEBUG - Value
+2020-01-17 10:14:43:6147 : DEBUG - Value
+2020-01-17 10:14:43:7893 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:43:9444 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:44:0843 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:44:2317 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:49:6348 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:49:7547 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:49:8447 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:49:9357 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:14:50:0517 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:03:0655 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:03:2416 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:03:3864 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:03:5224 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:03:6864 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:06:4930 : DEBUG - Value
+2020-01-17 10:15:06:6094 : DEBUG - Value
+2020-01-17 10:15:06:7104 : DEBUG - Value
+2020-01-17 10:15:06:8395 : DEBUG - Value
+2020-01-17 10:15:07:0106 : DEBUG - Value
+2020-01-17 10:15:25:2928 : DEBUG - Value
+2020-01-17 10:15:25:4801 : DEBUG - Value
+2020-01-17 10:15:25:6602 : DEBUG - Value
+2020-01-17 10:15:25:8116 : DEBUG - Value
+2020-01-17 10:15:25:9514 : DEBUG - Value
+2020-01-17 10:15:40:6855 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:40:8365 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:40:9891 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:41:1146 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:15:41:2819 : DEBUG - Error converting data type nvarchar to float.
+2020-01-17 10:44:08:1119 : DEBUG - get ATKParameter MinMaxAvgError converting data type nvarchar to float.
+2020-01-17 10:44:08:3887 : DEBUG - get ATKGraph Value FrequencyError converting data type nvarchar to float.
+2020-01-17 10:44:08:5259 : DEBUG - get ATKGraph Value FrequencyError converting data type nvarchar to float.
+2020-01-17 10:44:08:6378 : DEBUG - get ATKGraph Value FrequencyError converting data type nvarchar to float.
+2020-01-17 10:44:08:7290 : DEBUG - get ATKGraph Value FrequencyError converting data type nvarchar to float.
+2020-01-17 10:44:08:8210 : DEBUG - get ATKGraph Value FrequencyError converting data type nvarchar to float.
+2020-01-17 15:42:19:8110 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:42:19:9657 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:42:20:1289 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:43:37:7043 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:43:37:8003 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:43:37:8940 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:45:13:9130 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:45:14:0752 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 15:45:14:2476 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:01:00:7062 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:01:00:8485 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:01:01:0129 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:03:01:3187 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:03:01:4733 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:03:01:6202 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:05:37:6929 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:05:37:8381 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:05:38:0024 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:06:26:9759 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:06:27:0961 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:06:27:2443 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:07:32:3688 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:07:32:5186 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:07:32:6932 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:09:09:4340 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:09:09:5868 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:09:09:7286 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:13:41:6865 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:13:41:8229 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:13:41:9608 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:14:17:7113 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:14:17:8398 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:14:17:9560 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:14:54:1250 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:14:54:2553 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:14:54:4200 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:16:42:7748 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:16:42:8957 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:16:43:0339 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:23:50:7945 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:23:50:9281 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:23:51:0591 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:27:44:0093 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:27:44:1534 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:27:44:3177 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:29:45:3489 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:29:45:5020 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:29:45:6377 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:32:26:6460 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:32:26:7439 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:32:26:8399 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:34:15:8368 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:34:15:9643 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:34:16:0735 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:35:26:9531 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:35:27:0840 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:35:27:2115 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:37:00:3858 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:37:00:5340 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:37:00:6710 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:38:53:3227 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:38:53:4525 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:38:53:5674 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:47:26:4604 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:47:26:6030 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 16:47:26:7676 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 17:19:28:5939 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 17:19:28:7493 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 17:19:28:9060 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 17:32:53:5745 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 17:32:53:6991 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-17 17:32:53:8385 : DEBUG - get ATKGraph Value FrequencyValue

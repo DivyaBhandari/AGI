@@ -1,0 +1,1 @@
+﻿2020-05-16 17:14:56:0021 : EXCEPTION - Parameter Master - removeImageCould not find stored procedure 'update InputModuleParameterDetails set LimitImage=@LimitImage where Parameter=@parameter'.

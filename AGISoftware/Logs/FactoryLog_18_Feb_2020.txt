@@ -1,0 +1,8 @@
+﻿2020-02-18 10:46:50:1780 : DEBUG - OutputModule Bind GeneralInfoObject reference not set to an instance of an object.
+2020-02-18 10:46:50:6738 : DEBUG - OutputModule Bind GeneralInfoObject reference not set to an instance of an object.
+2020-02-18 10:52:42:3625 : DEBUG - OutputModule Bind GeneralInfoObject reference not set to an instance of an object.
+2020-02-18 10:54:34:9266 : DEBUG - OutputModule Bind GeneralInfoObject reference not set to an instance of an object.
+2020-02-18 18:21:36:6115 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-18 18:21:36:8718 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-18 18:21:37:1086 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-18 18:21:37:3335 : DEBUG - get ATKGraph Value FrequencyValue

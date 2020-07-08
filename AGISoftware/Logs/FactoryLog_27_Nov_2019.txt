@@ -1,0 +1,2 @@
+﻿2019-11-27 16:04:55:3427 : EXCEPTION - Error while view Emp data - Cannot insert the value NULL into column 'operate', table 'AGISoftware.dbo.Employee_Information'; column does not allow nulls. INSERT fails.
+The statement has been terminated.

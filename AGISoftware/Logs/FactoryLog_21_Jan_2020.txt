@@ -1,0 +1,198 @@
+﻿2020-01-21 09:09:18:4072 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:09:18:5317 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:09:18:6203 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:09:18:7109 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:09:42:3030 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:09:42:4138 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:09:42:5242 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:09:42:6455 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:11:38:9074 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:11:39:0082 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:11:39:1267 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:11:39:2413 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:13:59:1481 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:13:59:2840 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:13:59:3976 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:13:59:5266 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:15:16:9071 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:15:17:0141 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:15:17:1502 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:15:17:2690 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:17:00:5587 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:17:00:6748 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:17:00:7882 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:17:00:8997 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:18:38:2181 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:18:38:3124 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:18:38:4271 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:18:38:5508 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:19:21:5437 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:19:21:6562 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:19:21:7714 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:03:8413 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:03:9342 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:04:0260 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:24:5666 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:24:6893 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:24:8040 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:59:3667 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:59:4718 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:20:59:5896 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:51:18:6116 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:51:18:7256 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:51:18:8215 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:55:40:1151 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:55:40:2167 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:55:40:3147 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:57:05:7703 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:57:05:8764 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:57:05:9857 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:58:51:6361 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 09:58:51:7916 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:03:00:8302 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:03:00:9437 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:04:41:1341 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:04:41:2417 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:04:41:3596 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:11:30:9877 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:11:31:1244 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:11:50:0899 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:11:50:2132 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:14:03:3015 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:14:03:4070 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:14:03:5039 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:20:05:2731 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 10:20:05:4078 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:03:30:2265 : DEBUG - get ATKParameter MinMaxAvgUnclosed quotation mark after the character string 'Stock on  GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Incorrect syntax near 'Stock on  GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Unclosed quotation mark after the character string 'Stock on  GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+Incorrect syntax near 'Stock on  GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+INSERT INTO #StatTarget (ParameterId,Parameter,Min,Max,Avg,DerivedFlag)
+							SELECT 1000,I.Parameter,MIN(CAST(Isnull(I.Value,0) as float)) MIN,MAX(CAST(Isnull(I.Value,0) as float)) MAX,AVG(CAST(Isnull(I.Value,0) as float)) AVG,1
+							FROM #DerivedTarget I  
+							WHERE I.SDocID In (SELECT DISTINCT SDocId FROM #SDocDetails)   AND I.Parameter IN ('Abrasive Grain Size','Max. Wheel Dia (mm)','Min. Wheel Dia (mm)','Wheel Width (mm)','Maximum Cutting Speed (m/s)','Cutter Width (mm)','Dia Roll Size (mm)','Initial Component Dia (mm)','Stock on OD- Diametrically (mm)','Stock on  GROUP BY I.Parameter  
+									 Order by I.Parameter  
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by Min
+2020-01-21 11:03:57:9023 : DEBUG - get ATKParameter MinMaxAvgUnclosed quotation mark after the character string 'Diamet GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Incorrect syntax near 'Diamet GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Unclosed quotation mark after the character string 'Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+Incorrect syntax near 'Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+INSERT INTO #StatTarget (ParameterId,Parameter,Min,Max,Avg,DerivedFlag)
+							SELECT 1000,I.Parameter,MIN(CAST(Isnull(I.Value,0) as float)) MIN,MAX(CAST(Isnull(I.Value,0) as float)) MAX,AVG(CAST(Isnull(I.Value,0) as float)) AVG,1
+							FROM #DerivedTarget I  
+							WHERE I.SDocID In (SELECT DISTINCT SDocId FROM #SDocDetails)   AND I.Parameter IN ('Diameter After Semi-finishing-5 Dia','Diameter After Semi-finishing-5 DOC','Diameter After Semi-finishing-5 GrindingODWidth','Diameter After Semi-finishing-5 GritPenetrationDepth','Diameter After Semi-finishing-5 InFeed','Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by Min
+2020-01-21 11:03:58:3654 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:03:58:4902 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:03:58:6144 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:03:58:7601 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:03:58:9020 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:04:34:2075 : DEBUG - get ATKParameter MinMaxAvgUnclosed quotation mark after the character string 'Diamet GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Incorrect syntax near 'Diamet GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Unclosed quotation mark after the character string 'Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+Incorrect syntax near 'Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+INSERT INTO #StatTarget (ParameterId,Parameter,Min,Max,Avg,DerivedFlag)
+							SELECT 1000,I.Parameter,MIN(CAST(Isnull(I.Value,0) as float)) MIN,MAX(CAST(Isnull(I.Value,0) as float)) MAX,AVG(CAST(Isnull(I.Value,0) as float)) AVG,1
+							FROM #DerivedTarget I  
+							WHERE I.SDocID In (SELECT DISTINCT SDocId FROM #SDocDetails)   AND I.Parameter IN ('Diameter After Semi-finishing-5 Dia','Diameter After Semi-finishing-5 DOC','Diameter After Semi-finishing-5 GrindingODWidth','Diameter After Semi-finishing-5 GritPenetrationDepth','Diameter After Semi-finishing-5 InFeed','Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by Min
+2020-01-21 11:04:34:6575 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:04:34:7554 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:04:34:8494 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:04:34:9423 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:04:35:0383 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:39:9606 : DEBUG - get ATKParameter MinMaxAvgUnclosed quotation mark after the character string 'Diamet GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Incorrect syntax near 'Diamet GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Unclosed quotation mark after the character string 'Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+Incorrect syntax near 'Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+INSERT INTO #StatTarget (ParameterId,Parameter,Min,Max,Avg,DerivedFlag)
+							SELECT 1000,I.Parameter,MIN(CAST(Isnull(I.Value,0) as float)) MIN,MAX(CAST(Isnull(I.Value,0) as float)) MAX,AVG(CAST(Isnull(I.Value,0) as float)) AVG,1
+							FROM #DerivedTarget I  
+							WHERE I.SDocID In (SELECT DISTINCT SDocId FROM #SDocDetails)   AND I.Parameter IN ('Diameter After Semi-finishing-5 Dia','Diameter After Semi-finishing-5 DOC','Diameter After Semi-finishing-5 GrindingODWidth','Diameter After Semi-finishing-5 GritPenetrationDepth','Diameter After Semi-finishing-5 InFeed','Diamet GROUP BY I.Parameter  
+									 Order by I.Parameter  
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by Min
+2020-01-21 11:05:43:1958 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:43:3252 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:43:4172 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:43:5135 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:43:6058 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:58:3828 : DEBUG - get ATKParameter MinMaxAvgIncorrect syntax near the keyword 'GROUP'.
+Incorrect syntax near the keyword 'GROUP'.
+INSERT INTO #StatTarget (ParameterId,Parameter,Min,Max,Avg,DerivedFlag)
+							SELECT 1000,I.Parameter,MIN(CAST(Isnull(I.Value,0) as float)) MIN,MAX(CAST(Isnull(I.Value,0) as float)) MAX,AVG(CAST(Isnull(I.Value,0) as float)) AVG,1
+							FROM #DerivedTarget I  
+							WHERE I.SDocID In (SELECT DISTINCT SDocId FROM #SDocDetails)   AND I.Parameter IN ('Diameter After Finishing-5 Dia','Diameter After Finishing-5 DOC','Diameter After Finishing-5 GrindingODWidth','Diameter After Finishing-5 GritPenetrationDepth','Diameter After Finishing-5 InFeed','Diameter After Finishing-5 MRR' GROUP BY I.Parameter  
+									 Order by I.Parameter  
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by Min
+2020-01-21 11:05:58:8425 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:58:9651 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:59:0570 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:59:1633 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:05:59:3026 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:06:19:4873 : DEBUG - get ATKParameter MinMaxAvgUnclosed quotation mark after the character string 'Diam GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Incorrect syntax near 'Diam GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Unclosed quotation mark after the character string 'Diam GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+Incorrect syntax near 'Diam GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+INSERT INTO #StatTarget (ParameterId,Parameter,Min,Max,Avg,DerivedFlag)
+							SELECT 1000,I.Parameter,MIN(CAST(Isnull(I.Value,0) as float)) MIN,MAX(CAST(Isnull(I.Value,0) as float)) MAX,AVG(CAST(Isnull(I.Value,0) as float)) AVG,1
+							FROM #DerivedTarget I  
+							WHERE I.SDocID In (SELECT DISTINCT SDocId FROM #SDocDetails)   AND I.Parameter IN ('Diameter After Roughing-1 Dia','Diameter After Roughing-1 DOC','Diameter After Roughing-1 GrindingODWidth','Diameter After Roughing-1 GritPenetrationDepth','Diameter After Roughing-1 InFeed','Diameter After Roughing-1 MRR','Diam GROUP BY I.Parameter  
+									 Order by I.Parameter  
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by Min
+2020-01-21 11:06:19:9442 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:06:20:0571 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:06:20:1618 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:06:20:2552 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:06:20:3475 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:13:20:1267 : DEBUG - get ATKParameter MinMaxAvgUnclosed quotation mark after the character string 'Stock on  GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Incorrect syntax near 'Stock on  GROUP BY I.ParameterId,I.Parameter  
+									 Order by I.ParameterID  '.
+Unclosed quotation mark after the character string 'Stock on  GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+Incorrect syntax near 'Stock on  GROUP BY I.Parameter  
+									 Order by I.Parameter  '.
+INSERT INTO #StatTarget (ParameterId,Parameter,Min,Max,Avg,DerivedFlag)
+							SELECT 1000,I.Parameter,MIN(CAST(Isnull(I.Value,0) as float)) MIN,MAX(CAST(Isnull(I.Value,0) as float)) MAX,AVG(CAST(Isnull(I.Value,0) as float)) AVG,1
+							FROM #DerivedTarget I  
+							WHERE I.SDocID In (SELECT DISTINCT SDocId FROM #SDocDetails)   AND I.Parameter IN ('Abrasive Grain Size','Max. Wheel Dia (mm)','Min. Wheel Dia (mm)','Wheel Width (mm)','Maximum Cutting Speed (m/s)','Cutter Width (mm)','Dia Roll Size (mm)','Initial Component Dia (mm)','Stock on OD- Diametrically (mm)','Stock on  GROUP BY I.Parameter  
+									 Order by I.Parameter  
+ SELECT Parameter,round(Min,4) Min,round(Max,4) Max,round(Avg,4) Avg,DerivedFlag FROM #StatTarget 
+					   order by Min
+2020-01-21 11:13:20:6518 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:13:20:7710 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:13:20:8967 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:13:21:1460 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:13:21:2439 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:37:27:5559 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:37:27:7119 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:37:27:8537 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-21 11:37:27:9876 : DEBUG - get ATKGraph Value FrequencyValue

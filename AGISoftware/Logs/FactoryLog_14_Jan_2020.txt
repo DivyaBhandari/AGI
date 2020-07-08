@@ -1,0 +1,2 @@
+﻿2020-01-14 15:09:17:8340 : DEBUG - EquivalentDiameter
+2020-01-14 15:10:37:1577 : DEBUG - EquivalentDiameter

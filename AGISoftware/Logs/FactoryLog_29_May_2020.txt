@@ -1,0 +1,8 @@
+﻿2020-05-29 09:11:13:0720 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-29 09:11:13:5430 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-29 09:11:14:0060 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-29 09:11:14:4820 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-29 09:11:14:9380 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-29 14:12:42:5551 : DEBUG - ATK - get SystemDocument DataExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2020-05-29 16:14:49:6788 : EXCEPTION - Parameter Master - Deleting ParameterError converting data type nvarchar to int.
+2020-05-29 16:15:45:6076 : EXCEPTION - Parameter Master - Deleting ParameterError converting data type nvarchar to int.

@@ -1,0 +1,20 @@
+﻿2019-11-25 09:11:36:3989 : DEBUG - Point
+2019-11-25 09:11:38:9603 : DEBUG - Point
+2019-11-25 09:12:27:3052 : DEBUG - Point
+2019-11-25 09:14:52:9404 : DEBUG - Point
+2019-11-25 13:19:39:9190 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 13:19:43:8653 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 13:19:48:2276 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 13:34:34:5792 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 13:35:07:5134 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 13:35:16:8412 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 14:08:47:8271 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 14:48:11:4816 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-25 14:48:12:8811 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-25 14:48:51:5205 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-25 14:48:52:0323 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-25 14:49:35:8003 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-25 16:35:36:7574 : DEBUG - MRR
+2019-11-25 17:45:54:8293 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 17:46:18:6387 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.
+2019-11-25 17:47:09:2343 : DEBUG - Conversion failed when converting the nvarchar value '1.0000' to data type int.

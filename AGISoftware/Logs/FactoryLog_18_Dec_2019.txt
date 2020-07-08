@@ -1,0 +1,42 @@
+﻿2019-12-18 09:37:40:4917 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:40:5972 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:40:6876 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:40:7795 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:40:8959 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:49:6072 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:49:7221 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:49:8171 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:49:9066 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:49:9947 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:54:7875 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:37:55:2695 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:38:08:8792 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:38:19:2534 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:38:19:7753 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:38:37:4245 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:38:37:9555 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:39:32:5013 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:40:04:0103 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:40:31:1195 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:40:34:6707 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:42:27:9601 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:42:32:3595 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:43:12:2109 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:43:40:8396 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 09:43:43:6316 : DEBUG - Error converting data type nvarchar to float.
+2019-12-18 15:44:45:6931 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 15:44:51:3291 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 15:44:56:2030 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 15:44:57:4731 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 15:45:12:8222 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 15:45:17:9684 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 15:45:20:5058 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 15:45:25:3679 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 18:50:52:2452 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 18:52:31:2272 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 18:52:49:9558 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 18:54:31:5902 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 18:54:36:6375 : DEBUG - Invalid column name 'Parameter'.
+2019-12-18 18:54:56:4379 : DEBUG - Invalid column name 'Parameter'.
+Invalid column name 'Parameter'.
+2019-12-18 18:55:05:3270 : DEBUG - Invalid column name 'Parameter'.

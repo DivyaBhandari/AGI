@@ -1,0 +1,632 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="AGISoftware.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - AGI Software</title>
+
+    <%--  <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>--%>
+    <script src="Scripts/jquery-3.3.1.js"></script>
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    
+    <script src="Scripts/HighChartV8/highcharts.js"></script>
+    <%-- <script src="Scripts/HighChart/highcharts.js"></script>--%>
+    <script src="Scripts/HighChart/highcharts-3d.js"></script>
+    <script src="Scripts/HighChart/exporting.js"></script>
+    <script src="Scripts/HighChart/export-data.js"></script>
+
+    <link href="Scripts/Toastr/toastr.min.css" rel="stylesheet" />
+    <script src="Scripts/Toastr/toastr.min.js"></script>
+
+    <script src="Scripts/FontAwesomeNew/all.js"></script>
+    <script src="Scripts/FontAwesomeNew/fontawesome.js"></script>
+    <script src="Scripts/FontAwesomeNew/regular.js"></script>
+    <script src="Scripts/FontAwesomeNew/solid.js"></script>
+  
+    <%--<script src="Scripts/jquery.blockUI.js"></script>--%>
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <style>
+        #aboutTbl tr td {
+            border: 1px solid black;
+            padding: 10px 15px;
+        }
+
+        #logoutBtn:hover {
+            color: #4d4d4e;
+        }
+
+        #userProfile .panel-footer:hover, #userProfile .panel-heading:hover {
+            background-color: #dedddd;
+        }
+
+        .profileicon {
+            color: #909096;
+        }
+
+        .userNamecs {
+            color: #4d4d4e;
+            font-size: medium;
+        }
+
+        * {
+            margin: 0px;
+            padding: 0px;
+            font-family: sans-serif;
+            font-size: 15px;
+        }
+
+        /*#sidebar {
+            position: fixed;
+            top: 60px;
+            width: 200px;
+            height: 100%;
+            background-color: #4f4e63;
+            border: 1px solid #4f4e63;
+           
+            transition: all 500ms linear;
+            z-index: 200;
+        }
+
+            #sidebar.active {
+                left: 0px;
+            }
+
+            #sidebar ul li {
+                color: white;
+                list-style: none;
+                padding: 15px;
+              
+                border-bottom: 1px solid #43425d;
+            }
+
+
+                #sidebar ul li a {
+                    font-size: 16px;
+                    text-decoration: none;
+                }
+             
+                #sidebar ul li .toggle-btn span {
+                    display: block;
+                    width: 25px;
+                    height: 4px;
+                    background-color: #fc3503;
+                    margin: 3px 0px;
+                    border-radius: 2px;
+                }*/
+
+
+
+        #sidebar {
+            position: fixed;
+            top: 50px;
+            width: 200px;
+            height: 100%;
+            overflow: auto;
+            background-color: #4f4e63;
+            border: 1px solid #4f4e63;
+            transition: all 500ms linear;
+            z-index: 200;
+        }
+
+            #sidebar.active {
+                left: 0px;
+            }
+            #sidebar ul{
+                margin-bottom: 100px;
+            }
+            #sidebar ul li {
+                color: white;
+                list-style: none;
+                padding: 15px;
+                border-bottom: 1px solid #272633;
+            }
+
+                .sidebara, .sidebara:hover {
+                    color: white;
+                    font-size: 15px;
+                    text-decoration: none;
+                   
+                }
+
+                #sidebar ul li .toggle-btn span {
+                    display: block;
+                    width: 25px;
+                    height: 4px;
+                    background-color: #fc3503;
+                   
+                    margin: 3px 0px;
+                    border-radius: 2px;
+                }
+
+
+
+        /*.navbar-inverse .navbar-nav > .active > a:focus {
+            background-color: #fd6601;
+        }
+
+     
+
+        .navHeader {
+            background-color: rgb(190,190,190);
+          
+            border-color: rgb(190,190,190);
+        }
+
+        .collapse > .navbar-nav > li > a {
+            color: black;
+            font-size: 15px;
+            font-weight: bold;
+         
+        }
+
+        .collapse > .navbar-nav > li:hover {
+            background-color: black;
+            color: white;
+        }*/
+
+        .HeaderImage {
+            flex: 1;
+            float: left;
+        }
+
+        p {
+            float: right;
+        }
+
+        ::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+            background-color: #F5F5F5;
+            border-radius: 10px;
+        }
+
+            ::-webkit-scrollbar-track:hover {
+                -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+                background-color: #F5F5F5;
+                border-radius: 10px;
+            }
+
+        ::-webkit-scrollbar {
+            width: 16px;
+            height: 16px;
+            background-color: #F5F5F5;
+            border-radius: 10px;
+            box-shadow: inset 0 0 5px grey;
+        }
+
+        /*::-webkit-scrollbar:hover {
+                width: 15px;
+                height: 15px;
+                background-color: #F5F5F5;
+                border-radius: 10px;
+                box-shadow: inset 0 0 5px grey;
+            }*/
+
+        ::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            /*background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.44, rgb(77, 133, 129)), color-stop(0.72, rgb(33, 133, 129)), color-stop(0.86, rgb(13, 82, 77)));*/
+            /*background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.44,#9c9c9c), color-stop(0.72,#c9c9c9 ), color-stop(0.86,#9c9c9c));*/
+            background-color: #9c9c9c;
+        }
+
+        /*::-webkit-scrollbar-thumb:hover {
+                border-radius: 10px;    
+               
+                background-color: #9c9c9c;
+            }*/
+
+        div:hover::-webkit-scrollbar-corner {
+            width: 15px;
+            /*background-color: red !important;*/
+        }
+
+        /*Content Page*/
+        .Btns {
+            background-color: #70ccc9;
+            border: 1px solid #70ccc9;
+            color: white;
+            /*margin-left:10px;*/
+            border-radius: 7px;
+            padding: 1px 5px;
+            outline: none;
+            margin-bottom: 2px;
+            min-width: 80px;
+        }
+
+            .Btns:hover {
+                /*background-color: white;
+                 border: 1px solid white;
+                color: #44908d;*/
+                background-color: #70ccc9;
+                border: 1px solid #70ccc9;
+                color: white;
+            }
+
+        select {
+            color: #454444;
+        }
+
+        #ApplicationToolKit a, #DataInputModule a, #DerivedParameters a, #OutputModules a, #MasterData a, #ParameterMaster a, #OperatorDetailsMaster a, #ParametersRelationshipMaster a, #AssignValueForDependency a, #DeleteSDoc a, #InputModuleMasterView a, #AssignPagesforUser a, #ParameterDependenacyList a,#SignalProcess a, #UnlockSdocID a {
+            color: white;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body style="background-color: white">
+    <%--style="background-color:rgb(32, 38, 72)"--%>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+
+        <div class="navbar navbar-default navbar-fixed-top text-center" style="padding: 0px 5px; background-color: #edeef5">
+            <%--   box-shadow: 0 4px 2px -2px grey;--%>
+
+            <div class="HeaderImage">
+                <img src="Images/amtdc.png" height="60" style="padding: 3px" />
+            </div>
+
+            <span id="headerName" style="color: #fc3503; font-weight: bold; font-size: 30px; text-align: right; margin-top: 10px">Automation of Grinding Process Intelligence (AGI)</span>
+
+            <%--  <p style="font-size: 17px; margin-bottom: 0px; margin-top: 10px" id="datePara"><%: DateTime.Now.ToString("dd-MMM-yyyy hh:mm tt")%></p>--%>
+            <div style="float: right">
+
+                <img src="Images/iitm.png" style="height: 60px; padding: 3px" />
+
+            </div>
+            <div style="float: right; margin-right: 10px; position: relative">
+                <img src="Images/boy-512.png" onclick="profileInfo(this);" id="userICon" style="border: 2px solid #688a7e; border-radius: 50%; margin-top: 15px;" />
+                <div class="panel panel-default" id="userProfile" style="visibility: hidden; z-index: 6; width: 150px; position: absolute; top: 62px; right: 0px; box-shadow: 2px 2px 8px 2px #efe7e7;">
+                    <div class="panel-heading" style="padding: 8px; text-align: left"><i class="glyphicon glyphicon-user profileicon"></i>&nbsp;&nbsp;<asp:Label runat="server" ID="loggedUser" CssClass="userNamecs"></asp:Label></div>
+                    <%-- <div class="panel-body" style="height: 200px; overflow: auto">
+                       
+                    </div>--%>
+                    <div class="panel-footer" style="padding: 8px; text-align: left" onclick="window.location.href='LoginPage.aspx'">
+                        <i class="glyphicon glyphicon-log-out profileicon"></i>&nbsp;&nbsp;<asp:LinkButton runat="server" ID="logoutBtn" PostBackUrl="~/LoginPage.aspx" ClientIDMode="Static" CssClass="userNamecs" Text="Log Out" Style="text-decoration: none;"></asp:LinkButton>
+                    </div>
+
+                    <div class="panel-footer" style="padding: 8px; text-align: left" onclick="return aboutFunc();">
+                        <i class="glyphicon glyphicon-info-sign profileicon"></i>&nbsp;&nbsp;<span class="userNamecs">About </span>
+                    </div>
+                </div>
+            </div>
+            &nbsp;&nbsp;
+            
+
+        </div>
+
+
+        <div id="sidebar">
+
+            <ul>
+                <li id="limenu" style="background-color: #3c3b54">
+                    <div class="toggle-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </li>
+
+
+                <li id="showMasters" class="" onclick="showMaster()" runat="server"><a class="glyphicon glyphicon-list-alt sidebara" style="color: #ff5c34; font-size:18px;font-weight: bold"></a>&nbsp; <a class="spnhideShow sidebara" style="color: #ff5c34; font-size:20px;font-weight: bold">Masters</a>
+                    <ul style="margin-top: 10px" id="masters">
+                        <li onclick="location.href='MasterData.aspx';" runat="server" id="MasterData" style="border-bottom: unset" class="submenu"><a href="#" class="far fa-newspaper"></a>&nbsp;&nbsp;<a class="spnhideShow" href="MasterData.aspx">Parameter List</a></li>
+                        <li onclick="location.href='ParameterMaster.aspx';" runat="server" id="ParameterMaster" style="border-bottom: unset" class="submenu"><a href="#" class="fas fa-clipboard-list"></a>&nbsp;&nbsp;<a class="spnhideShow" href="ParameterMaster.aspx">Parameter Data </a></li>
+                        <li onclick="location.href='OperatorDetailsMaster.aspx';" runat="server" id="OperatorDetailsMaster" style="border-bottom: unset" class="submenu"><a href="#" class="fas fa-users"></a>&nbsp;&nbsp;<a class="spnhideShow" href="OperatorDetailsMaster.aspx">Employee Details</a></li>
+                        <li onclick="location.href='ParametersRelationshipMaster.aspx';" runat="server" id="ParametersRelationshipMaster" style="border-bottom: unset" class="submenu"><a href="ParametersRelationshipMaster.aspx" class="glyphicon glyphicon-equalizer"></a>&nbsp;&nbsp;<a class="spnhideShow" href="ParametersRelationshipMaster.aspx">Parameter Dependency</a></li>
+                        <li onclick="location.href='AssignValueForDependency.aspx';" runat="server" id="AssignValueForDependency" style="border-bottom: unset" class="submenu"><a href="AssignValueForDependency.aspx" class="glyphicon glyphicon-list-alt"></a>&nbsp;&nbsp;<a class="spnhideShow" href="AssignValueForDependency.aspx">Assign Value For Dependency</a></li>
+                          <li onclick="location.href='ParameterDependenacyList.aspx';" runat="server" id="ParameterDependenacyList" style="border-bottom: unset" class="submenu"><a href="ParameterDependenacyList.aspx" class="glyphicon glyphicon-list-alt"></a>&nbsp;&nbsp;<a class="spnhideShow" href="ParameterDependenacyList.aspx">Parameter Relationship</a></li>
+                        <li onclick="location.href='DeleteSDoc.aspx';" runat="server" id="DeleteSDoc" style="border-bottom: unset" class="submenu"><a href="DeleteSDoc.aspx" class="glyphicon glyphicon-remove"></a>&nbsp;&nbsp;<a class="spnhideShow" href="DeleteSDoc.aspx">Delete SDocID</a></li>
+
+                         <li onclick="location.href='UnlockSdocID.aspx';" runat="server" id="UnlockSdocID" style="border-bottom: unset" class="submenu"><a href="DeleteUnlockSdocIDSDoc.aspx" class="fa fa-unlock"></a>&nbsp;&nbsp;<a class="spnhideShow" href="UnlockSdocID.aspx">Unlock SDocID</a></li>
+
+                        <li onclick="location.href='InputModuleMasterView.aspx';" runat="server" id="InputModuleMasterView" style="border-bottom: unset" class="submenu"><a href="#" class="glyphicon glyphicon-list-alt"></a>&nbsp;&nbsp;<a class="spnhideShow" href="InputModuleMasterView.aspx">Input Module</a></li>
+                        <li onclick="location.href='AssignPagesforUser.aspx';" runat="server" id="AssignPagesforUser" style="border-bottom: unset" class="submenu"><a href="#" class="glyphicon glyphicon-user"></a>&nbsp;&nbsp;<a class="spnhideShow" href="AssignPagesforUser.aspx">User Access Rights</a></li>
+                    </ul>
+                </li>
+                 <li id="showTransactions" class="" runat="server" onclick="showTransaction()"><a class="fas fa-clipboard-list sidebara" style="color: #ff5c34; font-size:18px;font-weight: bold"></a>&nbsp; <a class="spnhideShow sidebara" style="color: #ff5c34; font-size:20px;font-weight: bold">Transactions</a>
+                    <ul style="margin-top: 10px" id="transactions">
+                        <li onclick="location.href='ApplicationToolKit.aspx';" runat="server" id="ApplicationToolKit" style="border-bottom: unset" class="submenu"><a href="ApplicationToolKit.aspx" class="glyphicon glyphicon-list-alt"></a>&nbsp; <a class="spnhideShow" href="ApplicationToolKit.aspx">Application Tool Kit</a>
+                        </li>
+                        <%-- <li style="border: none;" id="ApplicationToolKit" runat="server" clientidmode="static"><a href="ApplicationToolKit.aspx" class=" submenu uiBlocker" style="display: block"><i class="glyphicon glyphicon-list-alt"></i>&nbsp;&nbsp;<span class="spnhideShow">Application Tool Kit</span></a></li>--%>
+
+                        <li onclick="location.href='DataInputModule.aspx';" runat="server" id="DataInputModule" style="border-bottom: unset" class="submenu"><a href="DataInputModule.aspx" class="glyphicon glyphicon-copy"></a>&nbsp; <a class="spnhideShow" href="DataInputModule.aspx">Data Input Module </a></li>
+                        <li onclick="location.href='DerivedParameters.aspx';" runat="server" id="DerivedParameters" style="border-bottom: unset" class="submenu"><a href="DerivedParameters.aspx" class="glyphicon glyphicon-list"></a>&nbsp;<a class="spnhideShow" href="DerivedParameters.aspx"> Derived Parameters </a></li>
+                        <li onclick="location.href='OutputModules.aspx';" runat="server" id="OutputModules" style="border-bottom: unset" class="submenu"><a href="#" class="glyphicon glyphicon-paste"></a>&nbsp;&nbsp;<a class="spnhideShow" href="OutputModules.aspx">Output Module </a></li>
+
+                        <li runat="server" onclick="gotoSignalProcess()" id="SignalProcess" style="border-bottom: unset" class="submenu"><a href="#" class="glyphicon glyphicon-cloud"></a>&nbsp;&nbsp;<a class="spnhideShow" >Signal Processing</a></li>
+                         <%--<li runat="server" onclick="location.href='SignalProcess.aspx';" id="SignalProcess" style="border-bottom: unset" class="submenu"><a href="#" class="glyphicon glyphicon-cloud"></a>&nbsp;&nbsp;<a class="spnhideShow"  href="SignalProcess.aspx">Signal Processing</a></li>--%>
+                        <asp:HiddenField runat="server" ClientIDMode="Static" ID="hdSignalProcess" />
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+
+
+        <div class="container-fluid body-content" style="margin-left: 0px; margin-right: 10px; margin-bottom: 40px">
+            <%--style="margin-left: 0px; margin-right: 0px"--%>
+            <section id="Maincontent" style="position: relative">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </section>
+
+            <footer>
+                <div class="navbar navbar-default navbar-fixed-bottom footerBottom" style="padding: 0px 5px; border-bottom: 4px solid #2b7b78; background-color: #edeef5">
+                    <%-- box-shadow: 10px 14px 22px 9px grey;--%>
+                    <div class="footerPanel">
+                        <div class="btnImgPanel" style="margin-bottom: 0px">
+
+                            <img src="Images/microgrinding.png" style="height: 50px; width: 150px; padding: 3px" />
+                            <%-- <img src="Images/IIT_Madras_Logo.png" style="height: 40px;"/>--%>
+                            <%--<a class="btn" onclick="footerBackBtnClick(this)" style="padding: 0px 12px">
+								<img src="Images/Prev.png" class="btnImg" />
+							</a>
+							<a class="btn" href="Welcome.aspx" style="padding: 0px 12px">
+								<img src="Images/Home.png" class="btnImg" /></a>--%>
+                            <%--<a class="btn" href="#" >
+								<img src="Images/Next.png" class="btnImg" /></a>--%>
+                        </div>
+                        <div class="HeaderImage" style="text-align: right; ">
+                            <%-- <img src="Images/ACE-Micromatic-Group.png" />--%>
+                            <img src="Images/DHI-Logo (2).jpg" style="height: 50px; padding: 3px" />
+                        </div>
+                    </div>
+                    <div class="footerMaterial"></div>
+                </div>
+            </footer>
+        </div>
+
+        <div class="panel panel-default" id="aboutPanel" style="visibility: hidden; z-index: 10; position: absolute; top: 20%; right: 40%; box-shadow: 5px 5px 10px 5px #b0abab;">
+            <div class="panel-heading" style="padding: 8px; text-align: left; background-color: #edeef5">
+                <h4 class="modal-title" style="color: #fc3503; font-weight: bold">Automation of Grinding Process Intelligence (AGI)</h4>
+            </div>
+            <div class="panel-body" style="height: 200px; overflow: auto">
+                <table runat="server" id="aboutTbl" style="margin: auto">
+                    <tr>
+                        <td></td>
+                        <td>Version Number</td>
+                        <td>Release Date </td>
+                    </tr>
+                    <tr>
+                        <td>Application</td>
+                        <td>2.2.4.0</td>
+                        <td>10-06-2020</td>
+                    </tr>
+                    <tr>
+                        <td>Database</td>
+                        <td><span runat="server" id="dbVersionNo"></span></td>
+                        <td><span runat="server" id="dbReleaseDate"></span></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="panel-footer" style="padding: 8px; text-align: right; background-color: #edeef5">
+                <input type="button" runat="server" value="OK" class="btn btn-info" id="Button1" onclick="closeAboutModal()" style="background-color: #70ccc9; border: 1px solid #70ccc9; color: white" data-dismiss="modal" />
+            </div>
+        </div>
+
+
+
+    </form>
+    <script type="text/javascript">
+
+        function gotoSignalProcess() {
+          
+            window.open($('#hdSignalProcess').val(), '_blank');
+            //window.location.replace($('#hdSignalProcess').val());
+            //window.location.href = $('#hdSignalProcess').val();
+        }
+
+        function showTransaction() {
+            if ($('#showTransactions').hasClass('showProfile')) {
+                $('#showTransactions').removeClass('showProfile');
+                $('#transactions').css('display', 'none');
+                // document.getElementById('reports').style.visibility = "hidden";
+            }
+            else {
+                $('#showTransactions').addClass('showProfile');
+                //document.getElementById('reports').style.visibility = "visible";
+                $('#transactions').css('display', 'block');
+            }
+        }
+         function showMaster() {
+            if ($('#showMasters').hasClass('showMaster')) {
+                $('#showMasters').removeClass('showMaster');
+                $('#masters').css('display', 'none');
+                // document.getElementById('reports').style.visibility = "hidden";
+            }
+            else {
+                $('#showMasters').addClass('showMaster');
+                //document.getElementById('reports').style.visibility = "visible";
+                $('#masters').css('display', 'block');
+            }
+        }
+
+        function aboutFunc() {
+            document.getElementById('aboutPanel').style.visibility = "visible";
+            $('#userICon').removeClass('showProfile');
+            document.getElementById('userProfile').style.visibility = "hidden";
+        }
+        function closeAboutModal() {
+            document.getElementById('aboutPanel').style.visibility = "hidden";
+        }
+
+        function profileInfo(lnk) {
+
+            if ($('#userICon').hasClass('showProfile')) {
+                $('#userICon').removeClass('showProfile');
+                document.getElementById('userProfile').style.visibility = "hidden";
+            }
+            else {
+                $('#userICon').addClass('showProfile');
+                document.getElementById('userProfile').style.visibility = "visible";
+            }
+
+
+        }
+        $("#limenu").click(function () {
+            var widthMenu = $("#sidebar").width();
+            //alert(widthMenu);
+            if (widthMenu > 55) {
+
+                document.getElementById("sidebar").classList.toggle("active");
+                $('#sidebar').width(55);
+                //$(".spnhideShow").hide(200).css('transition','all 500ms linear');
+                $(".spnhideShow").delay(200).hide(500);
+                // $(".spnhideShow").css("transition-delay","0.5s").hide(500);
+                $("#Maincontent").css("margin-left", "55px");
+                $("#Maincontent").css("transition", "all 500ms linear");
+                //$("#li").css("margin-left", "-10px");
+
+
+            } else {
+
+                document.getElementById("sidebar").classList.toggle("active");
+                $('#sidebar').width(198);
+                // $(".spnhideShow").show(200).css('transition', 'all 500ms linear');
+                $(".spnhideShow").delay(200).show(500);
+                // $(".spnhideShow").css("transition-delay", "3s").show(500);
+                $("#Maincontent").css("margin-left", "198px");
+                $("#Maincontent").css("transition", "all 500ms linear");
+            }
+        });
+
+        function togglesidebarClick() {
+            document.getElementById("sidebar").classList.toggle("active");
+        }
+
+        var previousmenu;
+        var previosmenutext = "";
+        var currentmenu;
+
+        var currentmenutext;
+        $(window).resize(function () {
+             //$("#sidebar").css('height', '85vh');
+            var h = $(".navbar-fixed-top").height();
+            console.log("tpop h" + h);
+            if (parseInt(h) > 61) {
+                $(".body-content").css("margin-top", ($(".navbar-fixed-top").height() / 4) * 3);
+                $("#sidebar").css("margin-top", $(".navbar-fixed-top").height() / 2);
+            }
+            else {
+                $(".body-content").css("margin-top", 20);
+                $("#sidebar").css("margin-top", 0);
+            }
+        });
+        var validNavigation = false;
+        $(document).ready(function () {
+            
+            //$("#sidebar").css('height', '85vh');
+            var h = $(".navbar-fixed-top").height();
+            console.log("tpop h" + h);
+            if (parseInt(h) > 61) {
+                $(".body-content").css("margin-top", ($(".navbar-fixed-top").height() / 4) * 3);
+                $("#sidebar").css("margin-top", $(".navbar-fixed-top").height() / 2);
+            }
+            else {
+                $(".body-content").css("margin-top", 20);
+                $("#sidebar").css("margin-top", 0);
+
+            }
+            
+
+            $("#Maincontent").css("margin-left", "200px");
+
+            $("#menu-toggle").click(function (e) {
+                e.preventDefault();
+                $("#wrapper").toggleClass("active");
+            });
+
+            
+
+            //$('.dropdown a .test').on("click", function (e) {
+            //    $(this).next('ul').toggle();
+            //    e.stopPropagation();
+            //    e.preventDefault();
+            //});
+
+             
+            setSideBar();
+            //$('.uiBlocker').click(function () {            //    debugger;            //    alert("Enter");            //    //$.blockUI({ message: '<img runat="server" src="Images/ajax-loader (1).gif" style="margin:5px;width:90px;height:90px" />' });            //     $.blockUI({ message: '<img src="Images/ajax-loader (1).gif"  style="display: inline-block;vertical-align: text-bottom"/>&nbsp;&nbsp;<h2 style="display: inline-block;color:#524b4b;margin:20px 0px;">Just a moment...</h2>' });            //});
+           
+        });
+        function setSideBar() {
+            
+
+            var pathname = window.location.pathname;
+            var res = pathname.split("/");
+            if (res.length > 2) {
+                res = res[2].split(".");
+            } else {
+                res = res[1].split(".");
+            }
+             res = res[0].toLowerCase();
+           
+            console.log("Resssssss" + res);
+
+            if ((res == "applicationtoolkit") || (res == "datainputmodule") || (res == "derivedparameters") || (res == "outputmodules") || (res == "signalprocess") || (res == "sdoccomparisonpage")){
+                //$("#showMasters").addClass("active");
+                $("#masters").css("display", "none");
+                $('#transactions').css("display", "block");
+
+            }
+            else if ((res == "masterdata") || (res == "parametermaster") || (res == "operatordetailsmaster") || (res == "parametersrelationshipmaster") || (res == "assignvaluefordependency") || (res == "deletesdoc") || (res == "inputmodulemasterview") || (res == "assignpagesforuser") || (res=="parameterdependenacylist") || (res=="unlocksdocid") ) {
+                $("#masters").css("display", "block");
+                $('#transactions').css("display", "none");
+            }
+            else {
+                $("#masters").css("display", "none");
+                $('#transactions').css("display", "none");
+            }
+        }
+        //wireUpEvents(); 
+        //function endSession() {
+        //    // Browser or broswer tab is closed
+        //    // Do sth here ...
+        //    alert("bye");
+        //}
+        //window.onbeforeunload = function () {
+        //    alert(validNavigation);
+        //    if (!validNavigation) {
+        //        endSession();
+        //    }
+        //}
+        //$(document).bind('keypress', function (e) {
+        //      alert(e.keyCode);
+        //    if (e.keyCode == 116) {
+        //        validNavigation = true;
+        //    }
+        //});
+
+    </script>
+
+</body>
+</html>

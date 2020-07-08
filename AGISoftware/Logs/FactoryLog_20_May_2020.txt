@@ -1,0 +1,2 @@
+﻿2020-05-20 14:46:20:3790 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-20 17:33:47:9197 : EXCEPTION - Error while save or update Input Module - Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

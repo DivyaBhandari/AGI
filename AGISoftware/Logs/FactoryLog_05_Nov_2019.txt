@@ -1,0 +1,16 @@
+﻿2019-11-05 12:19:52:1940 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:2190 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:2380 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:2570 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:2769 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:2939 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:3131 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:6467 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:6786 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:6996 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:7176 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:7346 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:7508 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:19:52:7673 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 12:20:51:8414 : DEBUG - @sdocid is not a parameter for procedure S_Get_SystemDocDataSaveUpdate.
+2019-11-05 14:26:33:8492 : EXCEPTION - Error while save Input Module - Could not find stored procedure ''.

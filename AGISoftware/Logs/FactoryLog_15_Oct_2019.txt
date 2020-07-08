@@ -1,0 +1,8 @@
+﻿2019-10-15 16:16:09:8948 : DEBUG - 'ddlGrindingtype' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2019-10-15 16:16:45:5968 : DEBUG - 'ddlObjective' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2019-10-15 16:28:03:4859 : DEBUG - 'ddlObjective' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2019-10-15 16:31:20:6870 : DEBUG - 'ddlObjective' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

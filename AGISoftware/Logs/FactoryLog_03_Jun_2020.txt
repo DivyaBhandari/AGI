@@ -1,0 +1,28 @@
+﻿2020-06-03 14:21:41:8917 : EXCEPTION - Cannot open database "AGISoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+2020-06-03 14:22:47:9037 : EXCEPTION - Cannot open database "AGISoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+2020-06-03 14:22:47:9587 : EXCEPTION - System.Data.SqlClient.SqlException (0x80131904): Cannot open database "AGISoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGISoftware.DataBaseAccess.ConnectionManager.GetConnection() in D:\Divya Bhandari\AGISoftwareNew\AGISoftware\DataBaseAccess\ConnectionManager.cs:line 56
+   at AGISoftware.DataBaseAccess.DBAccess.CheckSupLoginData(String empname, String password) in D:\Divya Bhandari\AGISoftwareNew\AGISoftware\DataBaseAccess\DBAccess.cs:line 45
+   at AGISoftware.LoginPage.loginBtn_ServerClick(Object sender, EventArgs e) in D:\Divya Bhandari\AGISoftwareNew\AGISoftware\LoginPage.aspx.cs:line 41
+ClientConnectionId:5e735627-cb6c-4e5b-90b5-3d22df14c094
+Error Number:4060,State:1,Class:11
+2020-06-03 14:23:00:2149 : EXCEPTION - Cannot open database "AGISoftware" requested by the login. The login failed.
+Login failed for user 'sa'.
+2020-06-03 14:24:00:1059 : EXCEPTION - Cannot open database "AGISoftware" requested by the login. The login failed.
+Login failed for user 'sa'.

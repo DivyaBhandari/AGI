@@ -1,0 +1,12 @@
+﻿2020-04-14 09:11:51:8588 : DEBUG - Derived Parameter Signal Process- 
+ D:\Divya Bhandari\Divya\Project Copy\AGI(4-3-2020)\AGISoftware\AGISoftware\UploadSignalProcess\13042006413368147_DailyReport.xlsx
+2020-04-14 09:11:51:8988 : EXCEPTION - Passed invalid TemplatePath to Excel Template
+2020-04-14 09:12:22:1869 : DEBUG - Derived Parameter Signal Process- 
+ D:\Divya Bhandari\Divya\Project Copy\AGI(4-3-2020)\AGISoftware\AGISoftware\UploadSignalProcess\13042006413368147_DailyReport.xlsx
+2020-04-14 09:12:22:2140 : EXCEPTION - Passed invalid TemplatePath to Excel Template
+2020-04-14 11:47:17:4165 : DEBUG - ATK - get ATKParameter MinMaxAvgExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2020-04-14 11:47:50:5563 : DEBUG - ATK - get ATKGraph Value FrequencyExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2020-04-14 11:48:15:9937 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-14 11:48:37:6944 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-14 11:48:55:5880 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-04-14 11:49:13:6503 : DEBUG - ATK - get ATKGraph Value FrequencyValue

@@ -1,0 +1,6 @@
+﻿2020-05-22 11:24:50:2334 : DEBUG - Derived Parameter - get DerivedCalculateParameterRemarks
+2020-05-22 11:44:28:8665 : EXCEPTION - Derived Parameter - Error while set Spark and tango relief time - @TangoRelief is not a parameter for procedure S_Get_InputProcessEngineeringData.
+2020-05-22 11:53:45:8181 : EXCEPTION - Derived Parameter - Error while set Spark and tango relief time - @TangoRelief is not a parameter for procedure S_Get_InputProcessEngineeringData.
+2020-05-22 11:54:09:1568 : EXCEPTION - Derived Parameter - Error while set Spark and tango relief time - @TangoRelief is not a parameter for procedure S_Get_InputProcessEngineeringData.
+2020-05-22 11:57:47:9287 : EXCEPTION - Derived Parameter - Error while set Spark and tango relief time - @TangoRelief is not a parameter for procedure S_Get_InputProcessEngineeringData.
+2020-05-22 14:43:14:1112 : EXCEPTION - Parameter Master - Deleting ParameterDeleteFlag

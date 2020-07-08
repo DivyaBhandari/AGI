@@ -1,0 +1,10 @@
+﻿2019-11-19 14:00:34:5609 : EXCEPTION - Invalid column name 'column_name'.
+2019-11-19 15:20:29:1572 : EXCEPTION - Invalid column name 'column_name'.
+2019-11-19 15:20:29:6814 : EXCEPTION - Invalid column name 'column_name'.
+2019-11-19 18:16:07:9948 : DEBUG - TargetreliefTime
+2019-11-19 18:28:06:9726 : DEBUG - TargetreliefTime
+2019-11-19 18:28:07:4767 : DEBUG - TargetreliefTime
+2019-11-19 18:28:14:8241 : EXCEPTION - Error while save Input Module - Database 'dbo' does not exist. Make sure that the name is entered correctly.
+2019-11-19 18:28:59:9219 : EXCEPTION - Error while save Input Module - Database 'dbo' does not exist. Make sure that the name is entered correctly.
+2019-11-19 18:29:59:6929 : DEBUG - TargetreliefTime
+2019-11-19 18:30:00:2507 : DEBUG - TargetreliefTime

@@ -1,0 +1,28 @@
+﻿2020-02-10 09:34:45:1817 : DEBUG - Output Module Bind GrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:35:12:6724 : DEBUG - OutputModule Bind NonGrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:35:12:7318 : DEBUG - Output Module Bind TotalCycleTimeIncorrect syntax near ')'.
+2020-02-10 09:36:18:7153 : DEBUG - Output Module Bind GrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:36:20:7735 : DEBUG - OutputModule Bind NonGrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:36:20:8309 : DEBUG - Output Module Bind TotalCycleTimeIncorrect syntax near ')'.
+2020-02-10 09:38:10:6865 : DEBUG - Output Module Bind GrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:38:15:4180 : DEBUG - OutputModule Bind NonGrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:38:15:4740 : DEBUG - Output Module Bind TotalCycleTimeIncorrect syntax near ')'.
+2020-02-10 09:40:13:0982 : DEBUG - Output Module Bind GrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:40:16:1188 : DEBUG - OutputModule Bind NonGrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:40:16:1750 : DEBUG - Output Module Bind TotalCycleTimeIncorrect syntax near ')'.
+2020-02-10 09:41:18:8094 : DEBUG - Output Module Bind GrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:41:19:4706 : DEBUG - OutputModule Bind NonGrindingTimeIncorrect syntax near ')'.
+2020-02-10 09:41:19:5336 : DEBUG - Output Module Bind TotalCycleTimeIncorrect syntax near ')'.
+2020-02-10 15:46:57:8973 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:46:58:1322 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:46:58:3774 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:46:58:6250 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:46:58:8869 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:47:45:1180 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:47:45:3717 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:47:45:6067 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:47:45:8326 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 15:47:46:0546 : DEBUG - get ATKGraph Value FrequencyValue
+2020-02-10 16:50:25:9897 : DEBUG - While getting latest DB version numberValue
+2020-02-10 16:50:31:2160 : DEBUG - While getting latest DB version numberValue
+2020-02-10 16:51:03:9354 : DEBUG - While getting latest DB version numberValue

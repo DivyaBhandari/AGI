@@ -1,0 +1,15 @@
+﻿2020-05-28 10:27:38:2990 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:30:52:2497 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:33:08:3423 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:34:39:4463 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:40:52:8217 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:48:36:9254 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:49:52:3607 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:50:59:2797 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 10:54:37:9448 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 11:46:18:7854 : DEBUG - ATK - get ATKGraph Value FrequencyExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2020-05-28 12:15:23:4089 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 12:16:04:5746 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 12:16:53:3387 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 12:17:26:4900 : DEBUG - ATK - get ATKGraph Value FrequencyValue
+2020-05-28 16:46:40:1885 : DEBUG - ATK - get SystemDocument DataExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

@@ -1,0 +1,7 @@
+﻿2019-10-09 13:54:15:7898 : DEBUG - Could not find stored procedure 'select * from System_Documents where ID=@id'.
+2019-10-09 13:55:58:6286 : DEBUG - Could not find stored procedure 'select * from System_Documents where ID=@id'.
+2019-10-09 13:57:30:9709 : DEBUG - Could not find stored procedure 'select * from System_Documents where ID=@id'.
+2019-10-09 14:46:24:1722 : DEBUG - 'ddlGrindingtype' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2019-10-09 14:58:03:4812 : DEBUG - 'ddlGuideway' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

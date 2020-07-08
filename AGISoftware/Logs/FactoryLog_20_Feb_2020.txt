@@ -1,0 +1,5 @@
+﻿2020-02-20 11:39:52:4884 : EXCEPTION - String was not recognized as a valid Boolean.
+2020-02-20 11:40:01:7693 : EXCEPTION - String was not recognized as a valid Boolean.
+2020-02-20 11:48:00:5105 : EXCEPTION - String was not recognized as a valid Boolean.
+2020-02-20 11:51:46:1196 : EXCEPTION - String was not recognized as a valid Boolean.
+2020-02-20 13:55:02:9609 : DEBUG - Input Module- get FormulaList Incorrect syntax near '='.

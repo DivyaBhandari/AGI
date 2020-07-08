@@ -1,0 +1,1 @@
+﻿2020-04-23 11:59:13:5546 : EXCEPTION - Whil delete or restore SDocCould not find stored procedure 'S_Get_SystemDocHistoryDetails1'.

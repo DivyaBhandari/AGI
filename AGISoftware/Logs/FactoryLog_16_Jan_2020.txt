@@ -1,0 +1,13 @@
+﻿2020-01-16 12:52:18:0550 : DEBUG - Parameter
+2020-01-16 12:52:25:7203 : DEBUG - Parameter
+2020-01-16 12:52:26:7985 : DEBUG - Parameter
+2020-01-16 17:43:27:1660 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 17:43:27:3110 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 17:43:27:4240 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 17:43:27:5389 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 17:43:27:7261 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 18:18:32:8115 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 18:18:32:9115 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 18:18:33:0305 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 18:18:33:1684 : DEBUG - Error converting data type nvarchar to float.
+2020-01-16 18:18:33:2974 : DEBUG - Error converting data type nvarchar to float.

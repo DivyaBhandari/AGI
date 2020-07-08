@@ -1,0 +1,11 @@
+﻿2019-12-20 15:05:06:3647 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:05:13:1608 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:08:50:0244 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:09:00:6107 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:09:21:7166 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:12:00:2429 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:12:19:4278 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:13:07:8821 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:13:34:9103 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:13:57:5015 : EXCEPTION - String was not recognized as a valid Boolean.
+2019-12-20 15:14:19:7631 : EXCEPTION - String was not recognized as a valid Boolean.

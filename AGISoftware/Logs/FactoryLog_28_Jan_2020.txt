@@ -1,0 +1,79 @@
+﻿2020-01-28 12:27:30:1390 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-28 12:27:30:1830 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-28 12:27:43:7355 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-28 12:27:43:7795 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-28 12:28:05:5753 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-28 12:28:05:6188 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-28 12:29:38:2705 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-28 12:45:05:7964 : EXCEPTION - Whil delete or restore SDocIncorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+The label 'SDoc000003_03_0001_131119_11' has already been declared. Label names must be unique within a query batch or stored procedure.
+ INSERT INTO SystemDocTransaction (SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr)
+		SELECT SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr from SystemDocTransactionHistory
+			 Where SDocId in ( SDoc000003_03_0001_131119_11:44 )
+			 ORDER By ParameterID 
+ DELETE FROM SystemDocTransactionHistory
+		 WHERE SDocId in ( SDoc000003_03_0001_131119_11:44 ) 		 
+		 AND SDocId in (SELECT DISTINCT SDocId FROM SystemDocTransaction WHERE SDocId in ( SDoc000003_03_0001_131119_11:44 ) ) 
+2020-01-28 12:45:14:2832 : EXCEPTION - Whil delete or restore SDocIncorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+The label 'SDoc000003_03_0001_131119_11' has already been declared. Label names must be unique within a query batch or stored procedure.
+ INSERT INTO SystemDocTransaction (SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr)
+		SELECT SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr from SystemDocTransactionHistory
+			 Where SDocId in ( SDoc000003_03_0001_131119_11:44 )
+			 ORDER By ParameterID 
+ DELETE FROM SystemDocTransactionHistory
+		 WHERE SDocId in ( SDoc000003_03_0001_131119_11:44 ) 		 
+		 AND SDocId in (SELECT DISTINCT SDocId FROM SystemDocTransaction WHERE SDocId in ( SDoc000003_03_0001_131119_11:44 ) ) 
+2020-01-28 12:47:27:7757 : EXCEPTION - Whil delete or restore SDocIncorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+The label 'SDoc000003_03_0001_131119_11' has already been declared. Label names must be unique within a query batch or stored procedure.
+ INSERT INTO SystemDocTransaction (SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr)
+		SELECT SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr from SystemDocTransactionHistory
+			 Where SDocId in ( SDoc000003_03_0001_131119_11:44 )
+			 ORDER By ParameterID 
+ DELETE FROM SystemDocTransactionHistory
+		 WHERE SDocId in ( SDoc000003_03_0001_131119_11:44 ) 		 
+		 AND SDocId in (SELECT DISTINCT SDocId FROM SystemDocTransaction WHERE SDocId in ( SDoc000003_03_0001_131119_11:44 ) ) 
+2020-01-28 16:44:38:4799 : EXCEPTION - Whil delete or restore SDocIncorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+The label 'SDoc000003_03_0001_131119_11' has already been declared. Label names must be unique within a query batch or stored procedure.
+ INSERT INTO SystemDocTransaction (SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr)
+		SELECT SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr from SystemDocTransactionHistory
+			 Where SDocId in ( ''SDoc000003_03_0001_131119_11:44'' )
+			 ORDER By ParameterID 
+ DELETE FROM SystemDocTransactionHistory
+		 WHERE SDocId in ( ''SDoc000003_03_0001_131119_11:44'' ) 		 
+		 AND SDocId in (SELECT DISTINCT SDocId FROM SystemDocTransaction WHERE SDocId in ( ''SDoc000003_03_0001_131119_11:44'' ) ) 
+2020-01-28 16:45:33:1975 : EXCEPTION - Whil delete or restore SDocIncorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+Incorrect syntax near 'SDoc000003_03_0001_131119_11:'.
+The label 'SDoc000003_03_0001_131119_11' has already been declared. Label names must be unique within a query batch or stored procedure.
+ INSERT INTO SystemDocTransaction (SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr)
+		SELECT SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr from SystemDocTransactionHistory
+			 Where SDocId in ( ''SDoc000003_03_0001_131119_11:44'' )
+			 ORDER By ParameterID 
+ DELETE FROM SystemDocTransactionHistory
+		 WHERE SDocId in ( ''SDoc000003_03_0001_131119_11:44'' ) 		 
+		 AND SDocId in (SELECT DISTINCT SDocId FROM SystemDocTransaction WHERE SDocId in ( ''SDoc000003_03_0001_131119_11:44'' ) ) 
+2020-01-28 16:46:42:7121 : EXCEPTION - Whil delete or restore SDocMust declare the scalar variable "@User".
+ INSERT INTO SystemDocTransactionHistory (SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr,DeleteDate,DeletedBy)
+		 SELECT SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr,Getdate(),@User from SystemDocTransaction
+			 Where SDocId in ( 'SDoc000003_03_0001_131119_11:44' )
+			 ORDER By ParameterID 
+ DELETE FROM SystemDocTransaction
+		 WHERE SDocId in ( 'SDoc000003_03_0001_131119_11:44' ) 
+		 AND SDocId in (SELECT DISTINCT SDocId FROM SystemDocTransaction WHERE SDocId in ( 'SDoc000003_03_0001_131119_11:44' ) ) 
+2020-01-28 17:03:18:7460 : EXCEPTION - Whil delete or restore SDocMust declare the scalar variable "@User".
+ INSERT INTO SystemDocTransactionHistory (SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr,DeleteDate,DeletedBy)
+		 SELECT SDocId,ParameterID,Value,CreatedTS,UpdatedTS,SDocName,PlungeId,SubCategoryId,ReadTS,CreatedBy,UpdatedBy,FormulaStr,Getdate(),@User from SystemDocTransaction
+			 Where SDocId in ( 'SDoc000003_04_0001_131119_14:11' )
+			 ORDER By ParameterID 
+ DELETE FROM SystemDocTransaction
+		 WHERE SDocId in ( 'SDoc000003_04_0001_131119_14:11' ) 
+		 AND SDocId in (SELECT DISTINCT SDocId FROM SystemDocTransaction WHERE SDocId in ( 'SDoc000003_04_0001_131119_14:11' ) ) 
+ SELECT * from SystemDocTransactionHistory  Where SDocId in ( 'SDoc000003_04_0001_131119_14:11' ) 

@@ -1,0 +1,233 @@
+﻿2020-04-06 09:14:32:9032 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:15:45:1138 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:19:27:5992 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:19:29:7302 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:20:26:3777 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:20:28:5567 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:20:56:9816 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:21:17:2795 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:22:27:6713 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:22:36:3400 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:23:46:8611 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:27:42:6125 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:31:09:8395 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 09:34:40:3437 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 10:53:22:5071 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 10:54:17:4024 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 10:56:33:8740 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 10:59:01:3276 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 10:59:28:7042 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 11:28:11:3992 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 11:30:34:5428 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 11:33:21:1562 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 11:34:44:9194 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 11:50:44:9377 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 12:11:44:8252 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 12:44:13:1978 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 12:45:43:9030 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 12:49:15:8178 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 12:50:29:6542 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 12:52:58:2690 : DEBUG - Output Module - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 12:53:02:7169 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:07:35:3136 : DEBUG - Output Module - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:07:36:6565 : DEBUG - Output Module - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:09:17:6622 : DEBUG - Output Module - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:09:19:2682 : DEBUG - Output Module - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:09:20:9442 : DEBUG - Output Module - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:22:54:9904 : DEBUG - CUMI - BindInferenceSignalProcedure or function 'S_Get_OutPutModuleCalculatedParameter' expects parameter '@SDocId', which was not supplied.
+2020-04-06 13:23:05:0139 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:23:06:4174 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:23:08:1481 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:24:38:2088 : DEBUG - CUMI - BindInferenceSignalProcedure or function 'S_Get_OutPutModuleCalculatedParameter' expects parameter '@SDocId', which was not supplied.
+2020-04-06 13:24:42:7674 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:24:44:2304 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:24:47:0764 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:24:56:5344 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:24:58:3114 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:25:05:9395 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:30:36:0308 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:30:38:4868 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:30:42:8148 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:31:30:5588 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:31:34:9821 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:31:36:2301 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:31:51:6452 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:31:52:7143 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:31:54:0146 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:32:14:8161 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:32:16:3891 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 13:32:17:9041 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 14:40:26:5832 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 14:40:27:8457 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 14:40:29:2650 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 14:51:34:1044 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 14:51:35:3615 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 14:51:36:5367 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:00:20:3659 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:00:25:1585 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:00:26:9275 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:08:51:6782 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:08:53:0107 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:08:54:2606 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:14:57:5404 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:14:58:8865 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:15:00:3088 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:18:17:6947 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:18:19:1617 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:18:20:5547 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:22:31:2325 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:22:32:5685 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:22:34:1945 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:24:21:2368 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:24:22:8948 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:24:24:4518 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:28:30:7429 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:28:32:4779 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:28:34:1152 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:37:45:3391 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:37:45:8441 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:37:47:3241 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:49:45:1054 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:49:45:5374 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 15:49:46:7003 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:00:53:8165 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:00:54:1405 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:00:55:3475 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:24:02:2689 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:24:02:7949 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:24:05:5219 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:43:51:2798 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:43:51:8427 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:43:55:0438 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:16:5418 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:16:9948 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:18:4543 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:42:4334 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:42:7084 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:43:9393 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:53:8516 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:54:1721 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:45:55:4544 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:46:32:9553 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:46:33:2823 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:46:34:5172 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:46:41:7037 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:46:42:1278 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:46:42:5868 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:49:26:2785 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:49:26:5715 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:49:27:6976 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:53:29:8518 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:53:30:2289 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:53:31:6547 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:57:55:4471 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:57:55:7611 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 16:57:56:8928 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:08:24:8486 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:08:25:2626 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:08:25:8456 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:20:07:2958 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:20:07:6825 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:20:08:8966 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:30:56:7665 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:30:57:2559 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:30:58:8775 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:32:12:8286 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:32:13:2864 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:32:17:6173 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:32:23:2605 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:32:23:6147 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:32:23:9367 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:39:04:3110 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:39:04:7430 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:39:05:6750 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:39:08:3563 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:39:08:9053 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:39:09:3607 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:44:06:5192 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:44:07:2840 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:44:07:6643 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:46:36:0130 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:46:36:3864 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:46:36:7740 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:46:43:8278 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:46:44:1045 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:46:44:3947 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:46:59:8784 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:47:00:2025 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:47:00:5634 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:47:08:2186 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:47:08:6621 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:47:09:0180 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:51:24:3315 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:51:24:9776 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:51:25:4665 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:53:04:7042 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:53:05:1134 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 17:53:05:5176 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:01:37:7081 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:01:38:0229 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:01:38:5467 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:01:56:8149 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:01:57:1389 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:01:57:4593 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:02:2701 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:02:7129 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:02:9589 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:11:9434 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:12:1657 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:12:3934 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:33:5237 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:33:8544 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:02:34:4286 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:03:39:1657 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:03:39:8596 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:03:40:3960 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:04:59:3353 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:04:59:7641 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:05:00:3198 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:05:22:2512 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:05:22:6153 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:05:23:0020 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:05:35:7508 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:05:36:0968 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:05:36:4481 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:12:46:5047 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:12:46:8122 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:12:47:1345 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:13:03:7467 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:13:04:1008 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:13:04:4237 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:13:14:4252 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:13:14:6706 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:13:15:1146 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:15:37:3835 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:15:37:6934 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:15:38:1997 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:15:58:9811 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:15:59:5505 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:15:59:9216 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:02:7588 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:03:1100 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:03:5284 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:11:4421 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:11:7592 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:11:9876 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:29:0528 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:29:2678 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:16:29:5634 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:25:50:6671 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:25:50:9783 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:25:51:3285 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:34:36:9435 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:34:37:4604 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:34:37:7999 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:49:36:2050 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:49:36:5820 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:49:37:0874 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:56:27:3954 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:56:27:7942 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 18:56:28:1855 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 19:00:43:6730 : DEBUG - CUMI - Bind GrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 19:00:44:1941 : DEBUG - CUMI - Bind NonGrindingTimeInvalid attempt to call Read when reader is closed.
+2020-04-06 19:00:44:5187 : DEBUG - CUMI - Bind TotalCycleTimeInvalid attempt to call Read when reader is closed.

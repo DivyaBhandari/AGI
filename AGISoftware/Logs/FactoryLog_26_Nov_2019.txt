@@ -1,0 +1,12 @@
+﻿2019-11-26 09:39:10:3536 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-26 16:55:47:1584 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-26 17:35:27:1378 : DEBUG - MRR
+2019-11-26 17:35:29:5320 : DEBUG - MRR
+2019-11-26 17:35:30:4354 : DEBUG - MRR
+2019-11-26 17:35:37:2063 : DEBUG - MRR
+2019-11-26 17:35:38:0849 : DEBUG - MRR
+2019-11-26 17:45:57:6063 : DEBUG - MRR
+2019-11-26 17:46:36:4531 : DEBUG - MRR
+2019-11-26 18:00:27:7051 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2019-11-26 18:30:33:5956 : DEBUG - SparkOutTime
+2019-11-26 18:30:33:6912 : DEBUG - ORDER BY items must appear in the select list if SELECT DISTINCT is specified.

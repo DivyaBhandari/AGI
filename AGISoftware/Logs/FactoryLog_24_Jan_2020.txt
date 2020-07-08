@@ -1,0 +1,11 @@
+﻿2020-01-24 13:04:47:6769 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-24 13:04:47:8829 : DEBUG - get ATKGraph Value FrequencyValue
+2020-01-24 15:44:43:5607 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 15:44:43:5814 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 15:44:44:0485 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 15:44:44:0665 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 15:45:12:5870 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 15:45:56:8624 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 15:45:56:8804 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 16:05:14:6141 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.
+2020-01-24 16:05:14:6328 : EXCEPTION - While getting SDocList for deleteCould not find stored procedure 'S_Get_SystemDocHistoryDtetails'.

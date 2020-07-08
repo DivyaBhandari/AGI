@@ -1,0 +1,15 @@
+﻿2019-11-15 11:54:00:3233 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-11-15 11:54:52:1780 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-11-15 11:55:30:4472 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-11-15 11:56:51:2259 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-11-15 11:58:19:2473 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2019-11-15 15:01:02:8579 : DEBUG - Invalid object name 'System_Documents'.
+2019-11-15 15:01:03:3664 : DEBUG - Invalid object name 'System_Documents'.
+2019-11-15 17:00:37:5316 : DEBUG - Invalid column name 'Column_Name'.
+2019-11-15 17:15:44:0703 : DEBUG - Invalid column name 'Column_Name'.
+2019-11-15 17:15:44:8939 : DEBUG - Invalid column name 'Column_Name'.
+2019-11-15 17:39:23:9439 : DEBUG - Invalid column name 'Column_Name'.
+2019-11-15 17:47:45:5675 : DEBUG - Invalid column name 'Column_Name'.
+2019-11-15 17:58:38:9695 : DEBUG - Invalid column name 'Column_Name'.
+2019-11-15 18:06:25:9247 : DEBUG - Invalid column name 'Column_Name'.
+2019-11-15 18:06:26:4831 : DEBUG - Invalid column name 'Column_Name'.
